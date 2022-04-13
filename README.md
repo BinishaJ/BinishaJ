@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Binisha Joshi
-- 👀 I’m interested in web development using ReactJS and android development.
-- 🌱 I’m currently learning android development.
-- I would like any help on android development.
+- 👀 I’m interested in web development using HTML, CSS, Javascript and ReactJS.
 
 
 <!---
