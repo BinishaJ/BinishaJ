@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Binisha Joshi
-- 👀 I’m interested in web development using HTML, CSS, Javascript and ReactJS.
+- 👀 I’m interested in front-end development using HTML, CSS, Javascript and ReactJS.
 
 
 <!---
