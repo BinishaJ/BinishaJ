@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Binisha Joshi
 - 👀 Started out with front-end development using HTML, CSS, Javascript and ReactJS.
-- 📖 Currently learning NodeJS, ExpressJS and MongoDB
+- 📖 Currently learning back-end development integrating Node.js, Express.js and MongoDB
 
 
 <!---
