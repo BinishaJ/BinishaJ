@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Binisha Joshi
 - 👀 Started with HTML, CSS, Javascript and ReactJS.
 - 💻 Then Node.js, Express.js and MongoDB
-- 📖 Learning Django
+- 📖 Learning TypeScript and Django
 
 
 <!---
