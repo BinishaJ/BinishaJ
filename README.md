@@ -1,6 +1,6 @@
 # Hello👋 I’m Binisha Joshi 💻
 
-I am a Software Engineer (Node.js developer) and a BSc. CSIT graduate from Nepal 🇳🇵 
+I am a Full stack developer and a BSc. CSIT graduate from Nepal 🇳🇵 
 
 ## Currently I am working with...
 
